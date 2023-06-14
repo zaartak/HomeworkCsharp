@@ -1,0 +1,15 @@
+/Users/fedorovaleksejvalerevic/Desktop/Homework_new/Tasks/Task_4/bin/Debug/net7.0/Task_4
+/Users/fedorovaleksejvalerevic/Desktop/Homework_new/Tasks/Task_4/bin/Debug/net7.0/Task_4.deps.json
+/Users/fedorovaleksejvalerevic/Desktop/Homework_new/Tasks/Task_4/bin/Debug/net7.0/Task_4.runtimeconfig.json
+/Users/fedorovaleksejvalerevic/Desktop/Homework_new/Tasks/Task_4/bin/Debug/net7.0/Task_4.dll
+/Users/fedorovaleksejvalerevic/Desktop/Homework_new/Tasks/Task_4/bin/Debug/net7.0/Task_4.pdb
+/Users/fedorovaleksejvalerevic/Desktop/Homework_new/Tasks/Task_4/obj/Debug/net7.0/Task_4.csproj.AssemblyReference.cache
+/Users/fedorovaleksejvalerevic/Desktop/Homework_new/Tasks/Task_4/obj/Debug/net7.0/Task_4.GeneratedMSBuildEditorConfig.editorconfig
+/Users/fedorovaleksejvalerevic/Desktop/Homework_new/Tasks/Task_4/obj/Debug/net7.0/Task_4.AssemblyInfoInputs.cache
+/Users/fedorovaleksejvalerevic/Desktop/Homework_new/Tasks/Task_4/obj/Debug/net7.0/Task_4.AssemblyInfo.cs
+/Users/fedorovaleksejvalerevic/Desktop/Homework_new/Tasks/Task_4/obj/Debug/net7.0/Task_4.csproj.CoreCompileInputs.cache
+/Users/fedorovaleksejvalerevic/Desktop/Homework_new/Tasks/Task_4/obj/Debug/net7.0/Task_4.dll
+/Users/fedorovaleksejvalerevic/Desktop/Homework_new/Tasks/Task_4/obj/Debug/net7.0/refint/Task_4.dll
+/Users/fedorovaleksejvalerevic/Desktop/Homework_new/Tasks/Task_4/obj/Debug/net7.0/Task_4.pdb
+/Users/fedorovaleksejvalerevic/Desktop/Homework_new/Tasks/Task_4/obj/Debug/net7.0/Task_4.genruntimeconfig.cache
+/Users/fedorovaleksejvalerevic/Desktop/Homework_new/Tasks/Task_4/obj/Debug/net7.0/ref/Task_4.dll
