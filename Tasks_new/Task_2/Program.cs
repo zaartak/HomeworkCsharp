@@ -6,12 +6,23 @@
 Console.Write("Введите число: ");
 int number = int.Parse(Console.ReadLine()!);
 
-if(number >= 100 & number < 100000)
+if(number >= 100 & number < 1000)
+{
+    number = number % 10;
+    Console.Write($"{number}");
+}
+
+if(number >= 1000 & number < 10000)
+{
+    number = (number % 100) / 10;
+    Console.Write($"{number}");
+}
+if(number >= 10000 & number < 100000)
 {
     number = (number / 100) % 10;
     Console.Write($"{number}");
 }
 else
 {
-    Console.Write("Третьей цифры нет");
+    Console.WriteLine("Третьей цифры нет");
 }
