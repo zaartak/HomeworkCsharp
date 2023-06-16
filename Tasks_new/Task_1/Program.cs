@@ -9,8 +9,7 @@ int number = int.Parse(Console.ReadLine()!);
 
 if(number < 1000 & number >= 100)
 {
-    number = number % 100;
-    number = number / 10;
+    number = (number / 100) % 10
 }
 else
 {
