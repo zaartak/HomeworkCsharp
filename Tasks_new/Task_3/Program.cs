@@ -5,18 +5,14 @@
 // 1 -> нет
 
 Console.Write("Введите порядковый номер дня недели: "!);
-int weekday = int.Parse(Console.ReadLine()!);
+int weekday = Convert.ToInt32(Console.ReadLine()!);
 
-if(weekday <=5 & weekday == 1 || weekday == 2 || weekday == 3 || weekday == 4 || weekday == 5)
+if(weekday == 1 & weekday == 2 & weekday == 3 & weekday == 4 & weekday == 5)
 {
-    Console.WriteLine("Это будний день");
+    Console.Write("Это будний день");
+}
     
-    if (weekday == 6 || weekday == 7);
+    if(weekday == 6 & weekday == 7);
 {
-    Console.WriteLine("Это выходной день");
-}
-}
-else
-{
-    Console.WriteLine("Вы ввели неверное значение");
+    Console.Write("Это выходной день");
 }
