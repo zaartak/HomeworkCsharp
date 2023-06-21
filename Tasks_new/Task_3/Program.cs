@@ -12,7 +12,7 @@ if(weekday == 1 & weekday == 2 & weekday == 3 & weekday == 4 & weekday == 5)
     Console.Write("Это будний день");
 }
     
-    if(weekday == 6 & weekday == 7);
+    if(weekday == 6 & weekday == 7)
 {
     Console.Write("Это выходной день");
 }
