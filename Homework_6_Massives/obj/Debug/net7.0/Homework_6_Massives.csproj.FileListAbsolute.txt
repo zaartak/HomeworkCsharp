@@ -1,0 +1,15 @@
+/Users/fedorovaleksejvalerevic/Desktop/Homework_new/Tasks/Homework_6_Massives/bin/Debug/net7.0/Homework_6_Massives
+/Users/fedorovaleksejvalerevic/Desktop/Homework_new/Tasks/Homework_6_Massives/bin/Debug/net7.0/Homework_6_Massives.deps.json
+/Users/fedorovaleksejvalerevic/Desktop/Homework_new/Tasks/Homework_6_Massives/bin/Debug/net7.0/Homework_6_Massives.runtimeconfig.json
+/Users/fedorovaleksejvalerevic/Desktop/Homework_new/Tasks/Homework_6_Massives/bin/Debug/net7.0/Homework_6_Massives.dll
+/Users/fedorovaleksejvalerevic/Desktop/Homework_new/Tasks/Homework_6_Massives/bin/Debug/net7.0/Homework_6_Massives.pdb
+/Users/fedorovaleksejvalerevic/Desktop/Homework_new/Tasks/Homework_6_Massives/obj/Debug/net7.0/Homework_6_Massives.csproj.AssemblyReference.cache
+/Users/fedorovaleksejvalerevic/Desktop/Homework_new/Tasks/Homework_6_Massives/obj/Debug/net7.0/Homework_6_Massives.GeneratedMSBuildEditorConfig.editorconfig
+/Users/fedorovaleksejvalerevic/Desktop/Homework_new/Tasks/Homework_6_Massives/obj/Debug/net7.0/Homework_6_Massives.AssemblyInfoInputs.cache
+/Users/fedorovaleksejvalerevic/Desktop/Homework_new/Tasks/Homework_6_Massives/obj/Debug/net7.0/Homework_6_Massives.AssemblyInfo.cs
+/Users/fedorovaleksejvalerevic/Desktop/Homework_new/Tasks/Homework_6_Massives/obj/Debug/net7.0/Homework_6_Massives.csproj.CoreCompileInputs.cache
+/Users/fedorovaleksejvalerevic/Desktop/Homework_new/Tasks/Homework_6_Massives/obj/Debug/net7.0/Homework_6_Massives.dll
+/Users/fedorovaleksejvalerevic/Desktop/Homework_new/Tasks/Homework_6_Massives/obj/Debug/net7.0/refint/Homework_6_Massives.dll
+/Users/fedorovaleksejvalerevic/Desktop/Homework_new/Tasks/Homework_6_Massives/obj/Debug/net7.0/Homework_6_Massives.pdb
+/Users/fedorovaleksejvalerevic/Desktop/Homework_new/Tasks/Homework_6_Massives/obj/Debug/net7.0/Homework_6_Massives.genruntimeconfig.cache
+/Users/fedorovaleksejvalerevic/Desktop/Homework_new/Tasks/Homework_6_Massives/obj/Debug/net7.0/ref/Homework_6_Massives.dll
