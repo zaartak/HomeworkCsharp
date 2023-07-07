@@ -1,0 +1,15 @@
+/Users/fedorovaleksejvalerevic/Desktop/Homework_new/Tasks/Homework_7/Task_1/bin/Debug/net7.0/Task_1
+/Users/fedorovaleksejvalerevic/Desktop/Homework_new/Tasks/Homework_7/Task_1/bin/Debug/net7.0/Task_1.deps.json
+/Users/fedorovaleksejvalerevic/Desktop/Homework_new/Tasks/Homework_7/Task_1/bin/Debug/net7.0/Task_1.runtimeconfig.json
+/Users/fedorovaleksejvalerevic/Desktop/Homework_new/Tasks/Homework_7/Task_1/bin/Debug/net7.0/Task_1.dll
+/Users/fedorovaleksejvalerevic/Desktop/Homework_new/Tasks/Homework_7/Task_1/bin/Debug/net7.0/Task_1.pdb
+/Users/fedorovaleksejvalerevic/Desktop/Homework_new/Tasks/Homework_7/Task_1/obj/Debug/net7.0/Task_1.csproj.AssemblyReference.cache
+/Users/fedorovaleksejvalerevic/Desktop/Homework_new/Tasks/Homework_7/Task_1/obj/Debug/net7.0/Task_1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/fedorovaleksejvalerevic/Desktop/Homework_new/Tasks/Homework_7/Task_1/obj/Debug/net7.0/Task_1.AssemblyInfoInputs.cache
+/Users/fedorovaleksejvalerevic/Desktop/Homework_new/Tasks/Homework_7/Task_1/obj/Debug/net7.0/Task_1.AssemblyInfo.cs
+/Users/fedorovaleksejvalerevic/Desktop/Homework_new/Tasks/Homework_7/Task_1/obj/Debug/net7.0/Task_1.csproj.CoreCompileInputs.cache
+/Users/fedorovaleksejvalerevic/Desktop/Homework_new/Tasks/Homework_7/Task_1/obj/Debug/net7.0/Task_1.dll
+/Users/fedorovaleksejvalerevic/Desktop/Homework_new/Tasks/Homework_7/Task_1/obj/Debug/net7.0/refint/Task_1.dll
+/Users/fedorovaleksejvalerevic/Desktop/Homework_new/Tasks/Homework_7/Task_1/obj/Debug/net7.0/Task_1.pdb
+/Users/fedorovaleksejvalerevic/Desktop/Homework_new/Tasks/Homework_7/Task_1/obj/Debug/net7.0/Task_1.genruntimeconfig.cache
+/Users/fedorovaleksejvalerevic/Desktop/Homework_new/Tasks/Homework_7/Task_1/obj/Debug/net7.0/ref/Task_1.dll
